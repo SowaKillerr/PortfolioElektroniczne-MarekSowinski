@@ -56,7 +56,7 @@ Cześć! Nazywam się **Marek Sowiński** i jestem technikiem elektronikiem z pa
 
 ## 📁 Zawartość portfolio
 
-## 🚗 Gejgery – Wyświetlacz parametrów samochodu *(projekt pokazowy)*
+## 🚗 Gejgery – Wyświetlacz parametrów samochodu
 
 **Gejgery** to urządzenie peryferyjne przeznaczone do motoryzacji, stworzone do wyświetlania parametrów pojazdu pobieranych z zewnętrznego sterownika **ECU Master**, w planach rozwoju projektu, przewidywana jest integracja z innym urządzeniem mojej produkcji o nazwie VBC (Vintage Board Computer) oraz odczytywanie danych poprzez złącze diagnostyczne OBD2. Projekt nie jest open source – poniżej prezentuję jedynie zdjęcia urządzenia w celach pokazowych.
 
@@ -78,7 +78,7 @@ Cześć! Nazywam się **Marek Sowiński** i jestem technikiem elektronikiem z pa
 
 ---
 
-## 🧠 Komputer Pokładowy VBC *(projekt pokazowy)*
+## 🧠 Komputer Pokładowy VBC
 
 **Komputer Pokładowy VBC** to zaawansowane urządzenie wspomagające kierowcę w monitorowaniu parametrów pracy pojazdu. Powstał z myślą o samochodach starszej generacji, które nie posiadają złącz OBD ani cyfrowych magistrali umożliwiających bezpośredni odczyt danych.
 
