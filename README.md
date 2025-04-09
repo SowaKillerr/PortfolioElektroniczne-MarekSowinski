@@ -139,6 +139,6 @@ W razie pytań lub problemów technicznych – zapraszam do kontaktu. Pomagam z 
 
 📌 *Uwaga: projekt ma charakter pokazowy. Kod źródłowy i pełna dokumentacja nie są publicznie dostępne.*
 
+---
 
-
-Dzięki za odwiedzenie mojego repozytorium!
+Dzięki za odwiedzenie mojego portfolio i serdecznie zapraszam do kontaktu!
