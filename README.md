@@ -63,9 +63,9 @@ Cześć! Nazywam się **Marek Sowiński** i jestem technikiem elektronikiem z pa
 ### 🖼️ Galeria
 
 #### Obudowa urządzenia:
-<img src="ObuodwaDoGajgerow#1.png" alt="Obudowa Gejgery v5 - przód" width="400"/>
-<img src="ObuodwaDoGajgerow#2.png" alt="Obudowa Gejgery v5 - tył" width="400"/>
-<img src="ObuodwaDoGajgerow#4.png" alt="Obudowa Gejgery v6 - wariant" width="400"/>
+<img src="ObuodwaDoGajgerow1.png" alt="Obudowa Gejgery v5 - przód" width="400"/>
+<img src="ObuodwaDoGajgerow2.png" alt="Obudowa Gejgery v5 - tył" width="400"/>
+<img src="ObuodwaDoGajgerow4.png" alt="Obudowa Gejgery v6 - wariant" width="400"/>
 
 #### Projekt PCB:
 <img src="PCB v1.3 Dn.png" alt="PCB Gejgery - widok z dołu" width="400"/>
