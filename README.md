@@ -56,10 +56,25 @@ Cześć! Nazywam się **Marek Sowiński** i jestem technikiem elektronikiem z pa
 
 ## 📁 Zawartość portfolio
 
-Tu dodaję opisy poszczególnych projektów. Proszę, daj mi znać, co konkretnie chcesz tu zawrzeć:  
-- Czy mają się pojawić opisy projektów PCB?
-- Czy chcesz dodać np. galerie zdjęć z pracy?
-- A może osobne sekcje dla projektów związanych z programowaniem, serwisem, itd.?
+## 🚗 Geigery – Wyświetlacz parametrów samochodu *(projekt pokazowy)*
+
+**Geigery** to urządzenie peryferyjne przeznaczone do motoryzacji, stworzone do wyświetlania parametrów pojazdu pobieranych z zewnętrznego sterownika **ECU Master**. Projekt nie jest open source – poniżej prezentuję jedynie zdjęcia urządzenia w celach pokazowych.
+
+### 🖼️ Galeria
+
+#### Obudowa urządzenia:
+<img src="images/ObuodwaDoVOTEXA(zakrzywiona) v5 #1.png" alt="Obudowa Geigery v5 - przód" width="400"/>
+<img src="images/ObuodwaDoVOTEXA(zakrzywiona) v5 #2.png" alt="Obudowa Geigery v5 - tył" width="400"/>
+<img src="images/ObuodwaDoVOTEXA(zakrzywiona) v6 #4.png" alt="Obudowa Geigery v6 - wariant" width="400"/>
+
+#### Projekt PCB:
+<img src="images/PCB v1.3 Dn.png" alt="PCB Geigery - widok z dołu" width="400"/>
+<img src="images/PCB v1.3 Up.png" alt="PCB Geigery - widok z góry" width="400"/>
+
+---
+
+📌 *Uwaga: projekt ma charakter demonstracyjny i nie udostępniam jego dokumentacji ani kodu źródłowego.*
+
 
 ---
 
