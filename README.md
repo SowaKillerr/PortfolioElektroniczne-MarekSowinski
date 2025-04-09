@@ -63,9 +63,9 @@ Cześć! Nazywam się **Marek Sowiński** i jestem technikiem elektronikiem z pa
 ### 🖼️ Galeria
 
 #### Obudowa urządzenia:
-<img src="Gajgery/ObuodwaDoGajgerow#1.png" alt="Obudowa Gejgery v5 - przód" width="400"/>
-<img src="Gajgery/ObuodwaDoGajgerow#2.png" alt="Obudowa Gejgery v5 - tył" width="400"/>
-<img src="Gajgery/ObuodwaDoGajgerow#4.png" alt="Obudowa Gejgery v6 - wariant" width="400"/>
+<img src="Gajgery/ObuodwaDoGajgerow1.png" alt="Obudowa Gejgery v5 - przód" width="400"/>
+<img src="Gajgery/ObuodwaDoGajgerow2.png" alt="Obudowa Gejgery v5 - tył" width="400"/>
+<img src="Gajgery/ObuodwaDoGajgerow4.png" alt="Obudowa Gejgery v6 - wariant" width="400"/>
 
 #### Projekt PCB:
 <img src="Gajgery/PCB v1.3 Dn.png" alt="PCB Gejgery - widok z dołu" width="400"/>
@@ -77,5 +77,68 @@ Cześć! Nazywam się **Marek Sowiński** i jestem technikiem elektronikiem z pa
 
 
 ---
+
+## 🧠 Komputer Pokładowy VBC *(projekt pokazowy)*
+
+**Komputer Pokładowy VBC** to zaawansowane urządzenie wspomagające kierowcę w monitorowaniu parametrów pracy pojazdu. Powstał z myślą o samochodach starszej generacji, które nie posiadają złącz OBD ani cyfrowych magistrali umożliwiających bezpośredni odczyt danych.
+
+Urządzenie umożliwia:
+- Pomiar temperatury cieczy chłodzącej, powietrza, oleju itp.
+- Obliczanie spalania chwilowego i średniego
+- Monitorowanie przebytego dystansu
+- Analizę czasu jazdy, napięcia instalacji, obrotów silnika
+- Zbieranie i wyświetlanie danych w czasie rzeczywistym
+
+Projekt jest ciągle rozwijany – wersja 1.0 ma charakter roboczy i skupia się głównie na implementacji w pojeździe **VW Golf II**, który był bazowym modelem testowym.
+
+---
+
+### 🛠️ Dlaczego VBC?
+
+Wiele klasycznych samochodów nie posiada nowoczesnych komputerów pokładowych. Celem VBC jest dostarczenie kierowcy informacji, które normalnie dostępne są jedynie w nowoczesnych pojazdach lub po kosztownej modyfikacji. 
+
+VBC wyróżnia się:
+- Integracją z istniejącym licznikiem analogowym
+- Minimalną inwazyjnością montażu
+- Możliwością działania bez dodatkowych czujników (bazując na sygnałach już obecnych w aucie)
+- Modułową budową – łatwą w serwisie i dalszym rozwoju
+
+---
+
+### 🔧 Budowa i montaż
+
+System VBC dzieli się na cztery podstawowe moduły:
+- **Komputer główny** – steruje systemem, analizuje dane i komunikuje się z wyświetlaczem
+- **Wyświetlacz** – montowany najczęściej w miejscu zegarka cyfrowego na desce rozdzielczej
+- **Zegary** – klasyczne wskaźniki współpracujące z systemem
+- **Manipulator** – najlepiej wykorzystać oryginalną manetkę MFA, umożliwiającą zmianę trybów i danych
+
+Zalecany sposób montażu:
+- Komputer ukryty w miejscu książki serwisowej
+- Wiązka sygnałowa połączona z pinami licznika
+- Wyświetlacz w miejscu zegarka
+- Manetka w oryginalnym uchwycie MFA
+
+💡 *Uwaga: zegary nie muszą posiadać wbudowanego komputera MFA, urządzenie działa z podstawowymi wersjami liczników.*
+
+---
+
+### ⚠️ Kompatybilność i wsparcie
+
+Urządzenie było projektowane pod **VW Golf II**, ale możliwe jest jego zastosowanie w innych samochodach. W takich przypadkach wymagane może być dopasowanie połączeń na podstawie schematów instalacji elektrycznej konkretnego pojazdu.
+
+W razie pytań lub problemów technicznych – zapraszam do kontaktu. Pomagam z instalacją, konfiguracją i diagnostyką.
+
+---
+
+### 🖼️ Wizualizacja PCB
+
+<img src="VBC/VBC PCB.png" alt="PCB Komputera Pokładowego VBC" width="400"/>
+
+---
+
+📌 *Uwaga: projekt ma charakter pokazowy. Kod źródłowy i pełna dokumentacja nie są publicznie dostępne.*
+
+
 
 Dzięki za odwiedzenie mojego repozytorium!
