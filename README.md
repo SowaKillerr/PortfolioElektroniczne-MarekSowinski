@@ -55,6 +55,7 @@ Cześć! Nazywam się **Marek Sowiński** i jestem technikiem elektronikiem z pa
 ---
 
 ## 📁 Zawartość portfolio
+📌 *> Wykonałem wiele różnych projektów – zarówno mniejszych, jak i większych – jednak uważam, że te zaprezentowane tutaj są najbardziej godne uwagi ze względu na ich rozbudowaną strukturę oraz poziom zaawansowania technicznego.*
 
 ## 🚗 Gejgery – Wyświetlacz parametrów samochodu
 
