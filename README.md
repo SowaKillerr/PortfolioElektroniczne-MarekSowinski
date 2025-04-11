@@ -144,4 +144,4 @@ W razie pytań lub problemów technicznych – zapraszam do kontaktu. Pomagam z 
 
 ---
 
-Dzięki za odwiedzenie mojego portfolio i serdecznie zapraszam do kontaktu!
+Dziękuję za odwiedzenie mojego portfolio i serdecznie zapraszam do kontaktu!
