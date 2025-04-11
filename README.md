@@ -1,6 +1,8 @@
 # Marek Sowiński – Portfolio Elektronika
 
-Cześć! Nazywam się **Marek Sowiński** i jestem technikiem elektronikiem z pasją do tworzenia i rozwiązywania problemów. Swoje pierwsze kroki stawiałem w fotografii i reżyserii, ale to właśnie elektronika pochłonęła mnie na dobre. Specjalizuję się w projektowaniu układów elektronicznych, diagnostyce i serwisie modułów, a także automatyzacji procesów technicznych.
+Cześć! Nazywam się Marek Sowiński, mam 20 lat, a w 2025 roku przystępuję do egazminu maturalnego – co stanowi symboliczny moment wejścia w dorosłość i podjęcia decyzji dotyczących mojej przyszłości zawodowej. Ukończyłem technikum elektroniczne ze specjalizacją mechatronika, co dało mi solidne podstawy teoretyczne i praktyczne w zakresie elektroniki oraz automatyki. Równolegle rozwijałem swoje umiejętności, realizując różnorodne projekty – od projektowania i wykonywania płytek PCB, przez prototypowanie nowych urządzeń, aż po tworzenie kompletnych technologii produkcji. Pasjonuje mnie cały proces inżynieryjny – od koncepcji, przez projektowanie, aż po testowanie i wdrażanie gotowych rozwiązań.
+
+Jestem ambitny, zdeterminowany i gotowy na nowe wyzwania. Szukam miejsca, które pozwoli mi się rozwijać, zdobywać doświadczenie i współpracować nad ciekawymi projektami. Planuję kontynuować edukację, podejmując studia zaoczne na kierunku elektrotechniki, aby jak najlepiej przygotować się do roli inżyniera elektronika. Studia traktuję jako okazję do poszerzenia horyzontów oraz poznania inspirujących ludzi. Moją ścieżkę zawodową opieram na ciężkiej pracy oraz praktycznym podejściu do zdobywania wiedzy. Zależy mi na długofalowej współpracy, stabilności i możliwości nieustannego rozwoju.
 
 ---
 
