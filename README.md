@@ -66,13 +66,13 @@ Jestem ambitny, zdeterminowany i gotowy na nowe wyzwania. Szukam miejsca, które
 ### 🖼️ Galeria
 
 #### Obudowa urządzenia:
-<img src="Gajgery/ObuodwaDoGajgerow1.png" alt="Obudowa Gejgery v5 - przód" width="400"/>
-<img src="Gajgery/ObuodwaDoGajgerow2.png" alt="Obudowa Gejgery v5 - tył" width="400"/>
-<img src="Gajgery/ObuodwaDoGajgerow4.png" alt="Obudowa Gejgery v6 - wariant" width="400"/>
+<img src="Gajgery/Obudowa Gajgery V2.4 2.png" alt="Obudowa Gejgery v2.4" width="400"/>
+<img src="Gajgery/Obudowa Gajgery V2.4 3.png" alt="Obudowa Gejgery v2.4" width="400"/>
+<img src="Gajgery/Obudowa Gajgery V2.4 5.png" alt="Obudowa Gejgery v2.4" width="400"/>
 
 #### Projekt PCB:
-<img src="Gajgery/PCB v1.3 Dn.png" alt="PCB Gejgery - widok z dołu" width="400"/>
-<img src="Gajgery/PCB v1.3 Up.png" alt="PCB Gejgery - widok z góry" width="400"/>
+<img src="Gajgery/Gajgery v2.4 PCB DOWN.jpeg" alt="PCB Gejgery - widok z dołu" width="400"/>
+<img src="Gajgery/Gajgery v2.4 PCB UP.jpeg" alt="PCB Gejgery - widok z góry" width="400"/>
 
 ---
 
